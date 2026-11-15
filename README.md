@@ -30,6 +30,7 @@ Lung_Cancer.pkl
 3) Installing Environment requirements
 ```
 Using requirements.txt
+pip install -r requirments.txt
 ```
 
 ## Deployment of the Application
